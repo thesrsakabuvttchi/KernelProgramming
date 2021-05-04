@@ -10,5 +10,5 @@
 ![Error Image](../Assets/01-error.png)
 
 ### Output
-#### Kernel module is created (`hello.ko`) and inserted using insmod, removed using rmmod, logged messages can be seen using `sudo dmesg| tail -n 2`
+##### Kernel module is created (`hello.ko`) and inserted using insmod, removed using rmmod, logged messages can be seen using `sudo dmesg| tail -n 2`
 ![Output](../Assets/01-Output.png)
