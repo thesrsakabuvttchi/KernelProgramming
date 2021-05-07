@@ -1,1 +1,0 @@
-cmd_/home/pc/Desktop/KernelPrograms/02-NextStep/parameters.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T /usr/src/linux-headers-4.19.0-16-common/scripts/module-common.lds  --build-id  -o /home/pc/Desktop/KernelPrograms/02-NextStep/parameters.ko /home/pc/Desktop/KernelPrograms/02-NextStep/parameters.o /home/pc/Desktop/KernelPrograms/02-NextStep/parameters.mod.o ;  true
