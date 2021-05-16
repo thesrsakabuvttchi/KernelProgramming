@@ -1,0 +1,8 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "init.h": "c",
+        "compiler.h": "c",
+        "kasan-checks.h": "c"
+    }
+}
